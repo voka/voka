@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![TTstair's GitHub stats](https://github-readme-stats.vercel.app/api?username=vokd&show_icons=true&theme=highcontrast)
+![TTstair's GitHub stats](https://github-readme-stats.vercel.app/api?username=voka&show_icons=true&theme=highcontrast)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voka&layout=compact&theme=highcontrast)
