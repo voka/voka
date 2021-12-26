@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @voka
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+안녕하세요 
+
+:meat_on_bone:
+고기를 좋아하는 개발자입니다.
+
 
 ![TTstair's GitHub stats](https://github-readme-stats.vercel.app/api?username=voka&show_icons=true&theme=highcontrast)
 
