@@ -7,8 +7,6 @@
 
 ![TTstair's GitHub stats](https://github-readme-stats.vercel.app/api?username=voka&show_icons=true&theme=highcontrast)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voka&layout=compact&theme=highcontrast)
-
 
 # TMI :point_down:
 [최근에 시작한 깃허브 블로그입니다.](https://voka.github.io/)
