@@ -7,7 +7,7 @@
 
 ![TTstair's GitHub stats](https://github-readme-stats.vercel.app/api?username=voka&show_icons=true&theme=highcontrast)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=chdlswhd7)
 # TMI :point_down:
 
 [한동안 애용했었던 네이버 블로그입니다.](https://blog.naver.com/chdlswhd7)
